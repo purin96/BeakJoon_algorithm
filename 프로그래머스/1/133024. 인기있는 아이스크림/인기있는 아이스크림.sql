@@ -1,0 +1,6 @@
+-- 코드를 입력하세요
+SELECT FLAVOR
+FROM FIRST_HALF
+# Where TOTAL_ORDER desc
+# AND AGE <= 12
+order by TOTAL_ORDER desc, SHIPMENT_ID
